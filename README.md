@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aniket6391/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aniket6391/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
