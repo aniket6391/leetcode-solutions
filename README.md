@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket6391/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket6391/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,4 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket6391/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+## String
+|  |
+| ------- |
+| [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
