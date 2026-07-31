@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/aniket6391/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
+| [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniket6391/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
