@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
 | [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/aniket6391/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -158,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aniket6391/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
