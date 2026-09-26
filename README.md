@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniket6391/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aniket6391/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniket6391/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
