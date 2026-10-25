@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aniket6391/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/aniket6391/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniket6391/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aniket6391/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Breadth-First Search
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aniket6391/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
