@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aniket6391/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aniket6391/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -139,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aniket6391/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aniket6391/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## Breadth-First Search
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aniket6391/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
