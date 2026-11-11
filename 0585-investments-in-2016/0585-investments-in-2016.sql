@@ -7,7 +7,7 @@ group by tiv_2015
 having count(*)>1
 )
  and(lat,lon) in(
- select lat, lon
+ select lat,lon
  from Insurance
  group by lat,lon
  having count(*)=1
