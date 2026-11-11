@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/aniket6391/leetcode-solutions/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->
