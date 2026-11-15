@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0179-largest-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/aniket6391/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/aniket6391/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/aniket6391/leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aniket6391/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0179-largest-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/aniket6391/leetcode-solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1208-get-equal-substrings-within-budget](https://github.com/aniket6391/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0585-investments-in-2016](https://github.com/aniket6391/leetcode-solutions/tree/master/0585-investments-in-2016) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
