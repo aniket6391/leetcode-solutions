@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aniket6391/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/aniket6391/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/aniket6391/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0136-single-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/aniket6391/leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
