@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aniket6391/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/aniket6391/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aniket6391/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/aniket6391/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aniket6391/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/aniket6391/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
